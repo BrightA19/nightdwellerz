@@ -1,21 +1,15 @@
 body {
-  margin: 0;
+  background: #E5FFFF;
 }
-#remindersContainer {
-  width: 250px;
-  height: 200px;
-  border: 1px solid darkblue;
-  background: lightblue;
-  border-radius: 15px;
-  margin: 30px auto;
-  padding: 10px;
+.jumbotron {
+  height: 250px;
+  background-color: #7ACEEF;
 }
-#remindersTitle {
-  font: 25px sans-serif;
+.jumbotron #jumbotronTitle {
+  font: 50px 'sans-serif';
+  color: white;
   text-align: center;
 }
-#remindersForm {
-  width: 240px;
-  height: 100px;
-  margin: auto;
+.navbar {
+  margin-bottom: 0px;
 }

@@ -1,21 +1,6 @@
 body {
-  margin: 0;
+  background: #E5FFFF;
 }
-#remindersContainer {
-  width: 250px;
-  height: 200px;
-  border: 1px solid darkblue;
-  background: lightblue;
-  border-radius: 15px;
-  margin: 30px auto;
-  padding: 10px;
-}
-#remindersTitle {
-  font: 25px sans-serif;
-  text-align: center;
-}
-#remindersForm {
-  width: 240px;
-  height: 100px;
-  margin: auto;
+#description {
+  font-size: 19px;
 }
